@@ -404,6 +404,42 @@ A collection of automation scripts for cybersecurity tasks.
 </div>
 
 ---
+# 💻 Core Skills
+
+| Skill | Level |
+|------|------|
+| Python | █████████░ 90% |
+| Linux | ████████░░ 80% |
+| Networking | ████████░░ 80% |
+| Penetration Testing | ███████░░░ 70% |
+| Web Security | ███████░░░ 70% |
+| Reverse Engineering | ██████░░░░ 60% |
+| Digital Forensics | ██████░░░░ 60% |
+
+---
+
+# 📚 Currently Learning
+
+- Malware Analysis
+- Reverse Engineering
+- SOC Operations
+- Threat Hunting
+- Active Directory Security
+- Cloud Security (AWS Fundamentals)
+- Python Automation for Cybersecurity
+
+---
+
+# 🎯 Goals
+
+- Earn more cybersecurity certifications
+- Build advanced security automation tools
+- Contribute to open-source security projects
+- Publish practical cybersecurity write-ups
+- Strengthen Blue Team and SOC skills
+
+---
+
 
 
 
