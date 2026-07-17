@@ -14,39 +14,39 @@
 
 </div>
 
----
-
 <table>
 <tr>
 
-<td width="60%">
+<td width="60%" valign="top">
 
 # 👋 About Me
 
-Cyber Security undergraduate passionate about building practical security solutions.
+I build, analyze, and secure systems to make the digital world safer.
 
-- 🔐 SOC Operations & Blue Teaming
-- 🌐 Network Security
+- 🔍 Penetration Testing & Vulnerability Assessment
+- ⚡ Security Automation & Python Scripting
+- 🛡 Threat Analysis & Incident Response
+- 🔐 Secure Coding & Best Practices
+
+### 🎯 Current Focus
+
+- 🌐 Web Application Security
+- 🔬 Malware Analysis
+- ⚙️ Reverse Engineering
 - 🐍 Python Automation
-- 🛡 Vulnerability Assessment
-- 📡 Packet Analysis
-- 🎯 Threat Detection
-- 💻 Linux & Kali Linux
-
-### Current Focus
-
-- Web Application Security
-- Malware Analysis
-- Reverse Engineering
-- Security Automation
+- 🖥 Linux Administration
 
 </td>
 
-<td align="center" width="40%">
+<td width="40%" align="center">
 
-<img src="./assets/hacker.svg" width="320"/>
+<img src="assets/hacker.svg" width="320"/>
+
+<p><b>stay curious, stay secure.</b></p>
 
 </td>
 
 </tr>
 </table>
+
+---
