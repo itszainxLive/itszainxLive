@@ -375,5 +375,35 @@ A collection of automation scripts for cybersecurity tasks.
 
 ---
 
+# 📊 GitHub Metrics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=itszainxLive&theme=github_dark"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itszainxLive&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itszainxLive&theme=github_dark"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=itszainxLive&theme=github_dark"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=itszainxLive&theme=github_dark&utcOffset=5"/>
+
+</div>
+
+---
+
 
 
