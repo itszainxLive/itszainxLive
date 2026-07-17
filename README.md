@@ -346,5 +346,24 @@ A collection of automation scripts for cybersecurity tasks.
 </div>
 
 ---
+# 👀 Profile Visitors
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=itszainxLive&style=for-the-badge&color=39FF14)
+
+</div>
+
+---
+# 💡 Cybersecurity Philosophy
+
+<div align="center">
+
+> **"Security is not a product, it's a continuous process."**
+
+</div>
+
+---
+
 
 
