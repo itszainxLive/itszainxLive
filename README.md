@@ -169,58 +169,54 @@ I build, analyze, and secure systems to make the digital world safer.
 
 # 🚀 Featured Projects
 
-<table>
-<tr>
+### 🛡 AI Powered AegisForge
+> AI-powered cybersecurity platform that integrates security tools into a single dashboard.
 
-<td width="50%" valign="top">
+**Features**
+- AI-assisted security analysis
+- Vulnerability scanning
+- Web security testing
+- Automated reporting
 
-## 🛡 AI Powered AegisForge
+**Tech:** `Python` `Flask` `Docker` `SQLite`
 
-AI-powered cybersecurity platform that integrates security tools into a single dashboard.
+---
 
-**Tech Stack**
+### 🌐 Home Network Monitoring
+> Network monitoring dashboard for discovering devices and detecting suspicious activity.
 
-`Python` `Flask` `Docker` `SQLite`
+**Features**
+- Device discovery
+- Live monitoring
+- Risk detection
+- Traffic analysis
 
-</td>
+**Tech:** `Python` `FastAPI` `React` `Nmap`
 
-<td width="50%" valign="top">
+---
 
-## 🌐 Home Network Monitoring
+### 🎣 Phishing Detection System
+> Machine learning model for detecting phishing websites.
 
-Network monitoring dashboard for discovering devices and detecting suspicious activity.
+**Features**
+- URL feature extraction
+- Threat prediction
+- Risk scoring
 
-**Tech Stack**
+**Tech:** `Python` `Scikit-Learn` `Pandas`
 
-`Python` `FastAPI` `React` `Nmap`
+---
 
-</td>
+### 🐍 Python Security Scripts
+> Collection of cybersecurity automation scripts.
 
-</tr>
+**Includes**
+- Port Scanner
+- Password Generator
+- Hash Generator
+- File Integrity Checker
 
-<tr>
-
-<td width="50%" valign="top">
-
-## 🎣 Phishing Detection
-
-Machine learning based phishing website detector.
-
-**Tech Stack**
-
-`Python` `Scikit-Learn`
-
-</td>
-
-<td width="50%" valign="top">
-
-## 🐍 Python Security Scripts
-
-Automation scripts for penetration testing and security tasks.
-
-**Tech Stack**
-
-`Python` `Linux` `Bash`
+**Tech:** `Python` `Linux` `Bash`
 
 </td>
 
