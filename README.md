@@ -253,4 +253,22 @@ A collection of automation scripts for cybersecurity tasks.
 
 ---
 
+# 📜 Certifications
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Cisco-Introduction_to_Cybersecurity-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Cisco-Junior_Cybersecurity_Analyst-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Deloitte-Cyber_Job_Simulation-0A66C2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OPSWAT-ICIP-28A745?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Cisco-Networking_Basics-005073?style=for-the-badge&logo=cisco&logoColor=white"/>
+
+</div>
+
+---
+
 
