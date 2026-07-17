@@ -1,14 +1,20 @@
 <div align="center">
 
-<img src="banner.png" width="100%">
+<img src="banner.png" width="100%" />
 
-# Hi there, I'm Zain 👋
+<br><br>
 
-### Cyber Security Student • SOC Enthusiast • Network Security • Python Developer
+<h1>Hi there, I'm <span style="color:#39FF14;">Zain</span> 👋</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=39FF14&center=true&vCenter=true&width=650&lines=Cyber+Security+Student;SOC+Enthusiast;Network+Security;Python+Developer;Always+Learning+Something+New"/>
+<h3>Cyber Security Student | SOC Enthusiast | Network Security | Python Developer</h3>
+
+<p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=Cyber+Security+Student;SOC+Enthusiast;Network+Security;Python+Developer;Threat+Detection;Always+Learning"/>
+</p>
 
 </div>
+
+---
 
 <table>
 <tr>
