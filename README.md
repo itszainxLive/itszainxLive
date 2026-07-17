@@ -365,5 +365,15 @@ A collection of automation scripts for cybersecurity tasks.
 
 ---
 
+# 🐍 Contribution Snake
+
+<div align="center">
+
+![Snake animation](https://github.com/itszainxLive/itszainxLive/blob/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
 
 
