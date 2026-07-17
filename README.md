@@ -49,4 +49,70 @@ I build, analyze, and secure systems to make the digital world safer.
 </tr>
 </table>
 
+# ⚙️ Technologies & Tools
+
+<p align="center">
+
+<a href="https://www.linux.org">
+<img src="https://skillicons.dev/icons?i=linux" height="60"/>
+</a>
+
+<a href="https://www.python.org">
+<img src="https://skillicons.dev/icons?i=python" height="60"/>
+</a>
+
+<a href="https://www.gnu.org/software/bash/">
+<img src="https://skillicons.dev/icons?i=bash" height="60"/>
+</a>
+
+<a href="https://git-scm.com">
+<img src="https://skillicons.dev/icons?i=git" height="60"/>
+</a>
+
+<a href="https://github.com">
+<img src="https://skillicons.dev/icons?i=github" height="60"/>
+</a>
+
+<a href="https://www.docker.com">
+<img src="https://skillicons.dev/icons?i=docker" height="60"/>
+</a>
+
+<a href="https://code.visualstudio.com">
+<img src="https://skillicons.dev/icons?i=vscode" height="60"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+<img src="https://skillicons.dev/icons?i=html" height="60"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+<img src="https://skillicons.dev/icons?i=css" height="60"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+<img src="https://skillicons.dev/icons?i=javascript" height="60"/>
+</a>
+
+</p>
+
+---
+
+# 🛡 Cyber Security Tools
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/OpenVAS-009639?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Metasploit-00599C?style=for-the-badge"/>
+
+</p>
+
 ---
