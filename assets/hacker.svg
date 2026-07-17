@@ -1,1 +1,48 @@
 
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="380" viewBox="0 0 500 380">
+<rect width="100%" height="100%" fill="#0d1117"/>
+<text x="65" y="55" fill="#39ff14" font-size="18" font-family="monospace">
+██████████████████
+</text>
+
+<text x="90" y="90" fill="#39ff14" font-size="16" font-family="monospace">
+      .----.
+</text>
+
+<text x="70" y="115" fill="#39ff14" font-size="16" font-family="monospace">
+   .-'      '-.
+</text>
+
+<text x="60" y="140" fill="#39ff14" font-size="16" font-family="monospace">
+  /  .-''''-.  \
+</text>
+
+<text x="60" y="165" fill="#39ff14" font-size="16" font-family="monospace">
+ |  / 0  0 \  |
+</text>
+
+<text x="60" y="190" fill="#39ff14" font-size="16" font-family="monospace">
+ | |   /\   | |
+</text>
+
+<text x="60" y="215" fill="#39ff14" font-size="16" font-family="monospace">
+ | |  ----  | |
+</text>
+
+<text x="60" y="240" fill="#39ff14" font-size="16" font-family="monospace">
+  \ \______/ /
+</text>
+
+<text x="70" y="265" fill="#39ff14" font-size="16" font-family="monospace">
+   '-.____.-'
+</text>
+
+<text x="85" y="310" fill="#39ff14" font-size="22" font-family="monospace">
+stay curious,
+</text>
+
+<text x="95" y="340" fill="#39ff14" font-size="22" font-family="monospace">
+stay secure.
+</text>
+
+</svg>
