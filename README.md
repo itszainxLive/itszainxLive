@@ -17,8 +17,6 @@
 <table>
 <tr>
 
-<td width="60%" valign="top">
-
 # ⚙️ Technologies & Tools
 
 <p align="center">
@@ -86,6 +84,8 @@
 </p>
 
 ---
+<td width="60%" valign="top">
+
 
 # 👋 About Me
 
