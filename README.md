@@ -143,6 +143,13 @@ I build, analyze, and secure systems to make the digital world safer.
 - 🐍 Python Automation
 - 🖥 Linux Administration
 
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
 </td>
 
 <td width="40%" align="center">
@@ -155,5 +162,95 @@ I build, analyze, and secure systems to make the digital world safer.
 
 </tr>
 </table>
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+### 🛡 AI Powered AegisForge
+
+An AI-powered cybersecurity platform that integrates multiple security tools into a single web interface.
+
+**Highlights**
+- AI-assisted security analysis
+- Vulnerability scanning
+- Web security testing
+- Automated report generation
+- Docker deployment
+
+**Tech Stack**
+
+`Python` `Flask` `Docker` `SQLite` `HTML` `CSS` `JavaScript`
+
+</td>
+
+<td width="50%">
+
+### 🌐 Home Network Monitoring
+
+A network monitoring dashboard for discovering devices, analyzing traffic, and identifying suspicious activity.
+
+**Highlights**
+- Live device discovery
+- Network scanning
+- Packet analysis
+- Risk monitoring
+- Dashboard visualization
+
+**Tech Stack**
+
+`Python` `FastAPI` `React` `Wireshark` `Nmap`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🎣 Phishing Detection System
+
+A machine learning project that detects phishing websites using extracted URL features.
+
+**Highlights**
+- URL feature extraction
+- ML-based prediction
+- Threat detection
+- Risk scoring
+- Security analysis
+
+**Tech Stack**
+
+`Python` `Scikit-Learn` `Pandas` `NumPy`
+
+</td>
+
+<td width="50%">
+
+### 🐍 Python Security Scripts
+
+A collection of automation scripts for cybersecurity tasks.
+
+**Includes**
+- Port Scanner
+- Hash Generator
+- Password Generator
+- File Integrity Checker
+- Network Utilities
+
+**Tech Stack**
+
+`Python` `Linux` `Bash`
+
+</td>
+
+</tr>
+</table>
+
+---
 
 
