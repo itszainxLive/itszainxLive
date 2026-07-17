@@ -36,11 +36,11 @@ Cyber Security undergraduate passionate about building practical security soluti
 
 </td>
 
-<td width="40%">
+<td align="center" width="40%">
 
-<td width="40%" align="center">
-
-<img src="assets/hacker.svg" width="320"/>
+<img src="./assets/hacker.svg" width="320"/>
 
 </td>
 
+</tr>
+</table>
