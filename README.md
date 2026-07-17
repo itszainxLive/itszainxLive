@@ -10,5 +10,44 @@
 
 </div>
 
----
+<table>
+<tr>
+
+<td width="60%">
+
+# 👋 About Me
+
+Cyber Security undergraduate passionate about building practical security solutions.
+
+- 🔐 SOC Operations & Blue Teaming
+- 🌐 Network Security
+- 🐍 Python Automation
+- 🛡 Vulnerability Assessment
+- 📡 Packet Analysis
+- 🎯 Threat Detection
+- 💻 Linux & Kali Linux
+
+### Current Focus
+
+- Web Application Security
+- Malware Analysis
+- Reverse Engineering
+- Security Automation
+
+</td>
+
+<td width="40%">
+
+```text
+       .----.
+   _.'__    `.
+.'--(#)(##)---/#\
+' @          /###\
+:         ,   ##### 
+ `-..__.-' _.-\###/
+       `;_:    `"'
+     .'"""""`.
+    /,  CYBER ,\
+   // SECURITY \\
+   `-._______.-'
 
