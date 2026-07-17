@@ -63,25 +63,6 @@
 
 </p>
 
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=itszainxLive&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itszainxLive&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=itszainxLive&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 ---
 
 # 🛡 Cyber Security Tools
@@ -103,6 +84,45 @@
 </p>
 
 ---
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=itszainxLive&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itszainxLive&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=itszainxLive&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=itszainxLive&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=itszainxLive&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
 <td width="60%" valign="top">
 
 
