@@ -1,1 +1,4 @@
-
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="30" viewBox="0 0 1200 30">
+  <line x1="0" y1="15" x2="1200" y2="15" stroke="#39FF14" stroke-width="2"/>
+  <circle cx="600" cy="15" r="6" fill="#39FF14"/>
+</svg>
