@@ -439,6 +439,23 @@ A collection of automation scripts for cybersecurity tasks.
 - Strengthen Blue Team and SOC skills
 
 ---
+<p align="center">
+<img src="./assets/divider.svg" width="100%">
+</p>
+
+<div align="center">
+
+## 💚 Thanks for Visiting
+
+*"Cybersecurity is a journey of continuous learning and improvement."*
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1000&color=39FF14&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+GitHub!;Always+learning+new+things.;Building+secure+solutions.;See+you+again!"/>
+
+</div>
+
+<p align="center">
+Made with ❤️ using GitHub & Markdown
+</p>
 
 
 
