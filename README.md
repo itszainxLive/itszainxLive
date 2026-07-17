@@ -38,16 +38,9 @@ Cyber Security undergraduate passionate about building practical security soluti
 
 <td width="40%">
 
-```text
-       .----.
-   _.'__    `.
-.'--(#)(##)---/#\
-' @          /###\
-:         ,   ##### 
- `-..__.-' _.-\###/
-       `;_:    `"'
-     .'"""""`.
-    /,  CYBER ,\
-   // SECURITY \\
-   `-._______.-'
+<td width="40%" align="center">
+
+<img src="assets/hacker.svg" width="320"/>
+
+</td>
 
