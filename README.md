@@ -126,6 +126,13 @@
 <td width="60%" valign="top">
 
 
+
+
+<table>
+<tr>
+
+<td width="60%" valign="top">
+
 # 👋 About Me
 
 I build, analyze, and secure systems to make the digital world safer.
@@ -143,31 +150,84 @@ I build, analyze, and secure systems to make the digital world safer.
 - 🐍 Python Automation
 - 🖥 Linux Administration
 
-# 🚀 Featured Projects
-
-<table>
-<tr>
-
-<td width="50%">
-
 </td>
 
 <td width="40%" align="center">
 
-<img src="assets/hacker.svg" width="320"/>
+<img src="assets/hacker.svg" width="300"/>
 
-<p><b>stay curious, stay secure.</b></p>
+<br>
+
+<b>Stay Curious.<br>Stay Secure.</b>
 
 </td>
 
 </tr>
 </table>
 
+---
+
 # 🚀 Featured Projects
 
 <table>
 <tr>
 
+<td width="50%" valign="top">
+
+## 🛡 AI Powered AegisForge
+
+AI-powered cybersecurity platform that integrates security tools into a single dashboard.
+
+**Tech Stack**
+
+`Python` `Flask` `Docker` `SQLite`
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🌐 Home Network Monitoring
+
+Network monitoring dashboard for discovering devices and detecting suspicious activity.
+
+**Tech Stack**
+
+`Python` `FastAPI` `React` `Nmap`
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+## 🎣 Phishing Detection
+
+Machine learning based phishing website detector.
+
+**Tech Stack**
+
+`Python` `Scikit-Learn`
+
+</td>
+
+<td width="50%" valign="top">
+
+## 🐍 Python Security Scripts
+
+Automation scripts for penetration testing and security tasks.
+
+**Tech Stack**
+
+`Python` `Linux` `Bash`
+
+</td>
+
+</tr>
+</table>
+
+---
 <td width="50%">
 
 ### 🛡 AI Powered AegisForge
